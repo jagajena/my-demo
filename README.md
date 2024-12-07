@@ -1,2 +1,2 @@
 # my-demo
-my goal
+this my demo,created for learning
